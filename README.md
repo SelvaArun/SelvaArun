@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SelvaArun
-- 👀 I’m interested in Test Automation
 - 📫 Reach me arun2001lk@yahoo.com
 
 <!---
